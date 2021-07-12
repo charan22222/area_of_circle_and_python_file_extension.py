@@ -2,7 +2,7 @@
 PI = 3.14
 radius = 1.1
 Area = PI*radius*radius
-Print("Area of circle = %2f",area)
+print("Area of circle = %2f",area)
 
 #python extension
 filename = input("Input the Filename: ")
